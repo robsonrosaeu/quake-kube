@@ -85,7 +85,7 @@ data:
     fragLimit: 25
     timeLimit: 15m
     bot:
-      minPlayers: 3
+      minPlayers: 8
     game:
       motd: "Welcome to Critical Stack"
       type: FreeForAll
@@ -95,7 +95,7 @@ data:
       weaponRespawn: 3
     server:
       hostname: "quakekube"
-      maxClients: 12
+      maxClients: 16
       password: "changeme"
     commands:
       - addbot sarge 2
